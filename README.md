@@ -24,3 +24,5 @@ Sample data has been provided in the following files:
 
 - `preenrolment-(YEAR).csv` Results from pre-enrolment quiz
 - `student_details.json` Details of _all_ the students.
+- `results-data.parquet` Results from modules for each student for years 20/22 and 21/23
+- `module_results-(COHORT)-(YEAR).csv` Current student results
